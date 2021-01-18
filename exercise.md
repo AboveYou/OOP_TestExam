@@ -60,7 +60,7 @@ a) **Car**: Extends `Vehicle`.
 **public Methods**
 
 - Override (implement) the toString method. Follow the following string pattern:
-    ```{class_name}(x: {x_position}, y: {y_position}```
+    ```{class_name}(x: {x_position}, y: {y_position})```
     Values inside curly brackets `{value}` need to be replaced by its actual value.
     e.g. `{class_name}` -> `Car`.
 - Implement all methods from parent classes or Interfaces, that are not implemented in any parent class. (*Hint: Only one method*)
@@ -82,7 +82,7 @@ b) **Motorbike**: Extends `Vehicle`.
 
 - Override (implement) the **toString** method. Follow the following string pattern:
 
-    ```{class_name}(x: {x_position}, y: {y_position}```
+    ```{class_name}(x: {x_position}, y: {y_position})```
     
     Values inside curly brackets `{value}` need to be replaced by its actual value.
     e.g. `{class_name}` -> `Car`.
